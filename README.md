@@ -1,9 +1,15 @@
 👋 Hi, I’m Aidan the Founder of NexGen Consulting Services
+
 👀 I’m interested in Python, Networking, Designing 3D models
+
 🌱 I’m currently learning Python
+
 💞️ I’m looking to collaborate on AI and Systems
+
 📫 How to reach me - Email - nexgenconsultingservices@gmail.com
+
 😄 Pronouns: He/Him/His
+
 ⚡ Fun fact: I play at a state level for Lawn Bowls
 
 

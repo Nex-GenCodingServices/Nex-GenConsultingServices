@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on AI and Systems
 
-📫 How to reach me - Email - nexgenconsultingservices@gmail.com
+📫 How to reach me - Email - nexgenconsultingservices1@gmail.com
 
 😄 Pronouns: He/Him/His
 

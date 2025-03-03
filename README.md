@@ -13,5 +13,6 @@
 ⚡ Fun fact: I play at a state level for Lawn Bowls
 
 
-CURRENT PROJECT - I am currently working on some basic code for a AI Integrated Chatbot
-named Amelia for a local landscape supply company.
+CURRENT PROJECT - I am currently working on some basic code for a Chatbot named Amelia
+for a local Landscape Supply Company. The chatbot is based off my creations of Amelia AI 
+and has both Amelia 1.0 and 2.0 mixed into the development of the chatbot

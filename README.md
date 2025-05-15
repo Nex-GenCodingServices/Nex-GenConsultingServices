@@ -1,12 +1,13 @@
-👋 Hi, I’m Aidan the Founder of Nex-Gen Consulting Services
+👋 Hi, I’m Aidan the Founder of Nex-Gen Consulting Services,
+   I am also the Founder of Nex-Gen Coding Services
 
 👀 I’m interested in Python, Networking, Designing 3D models
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python, Swift, Bash, Java, and JavaScript
 
 💞️ I’m looking to collaborate on AI and Systems
 
-📫 How to reach me - Email - nexgenconsultingservices1@gmail.com
+📫 How to reach me - Email - nexgenconsultingservices1@gmail.com or nexgencodingservices@gmail.com
 
 😄 Pronouns: He/Him/His
 
